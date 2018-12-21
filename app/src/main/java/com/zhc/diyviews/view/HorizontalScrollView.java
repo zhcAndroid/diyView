@@ -225,8 +225,6 @@ public class HorizontalScrollView extends ViewGroup {
                     }
 
                 }
-
-
                 smoothScrollTo(currIndex * childViewWidth,0 );
                 break;
 
